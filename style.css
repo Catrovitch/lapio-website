@@ -1,1 +1,16 @@
-p { background-color: red; }
+* {
+  color: orange;
+}
+h1 {
+   color: blue;
+}
+h2 {
+   color: brown;
+}
+.list_head {
+  color: red;
+}
+
+#purple-part {
+  color: purple;
+}
